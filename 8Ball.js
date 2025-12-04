@@ -18,42 +18,42 @@ function shakeMagic8Ball() {
  switch(randomNumber){
     case 0:
     answer = 'Yes';
-    image = 'yes-image.png';
+    image = 'smile.png';
     color = ' text-success';
 
     break;
 
        case 1:
     answer = 'Not Likely';
-    image = 'yes-image.jpg';
+    image = 'notlikely - Copy.gif';
     color = 'text-warning';
 
     break;
 
        case 2:
     answer = 'Prospects Poor';
-    image = 'yes-image.jpg';
+    image = 'prospect.gif';
     color = ' text-primary';
 
     break;
 
        case 3:
     answer = 'Absolutely';
-    image = 'yes-image.jpg';
+    image = 'absolutely.gif';
     color = ' text-success';
 
     break;
 
        case 4:
     answer = 'It is certain';
-    image = 'yes-image.jpg';
+    image = 'certain.gif';
     color = 'text-success';
 
     break;
 
        case 5:
     answer = 'Outlook Good';
-    image = 'yes-image.jpg';
+    image = 'ogood.gif';
     color = 'text-success';
 
     break;
