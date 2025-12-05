@@ -18,7 +18,7 @@ function shakeMagic8Ball() {
  switch(randomNumber){
     case 0:
     answer = 'Yes';
-    image = 'smile.png';
+    image = 'yes.gif';
     color = ' text-success';
 
     break;
@@ -60,14 +60,14 @@ function shakeMagic8Ball() {
 
        case 6:
     answer = 'As I see it, yes';
-    image = 'yes-image.jpg';
+    image = 'asyes.gif';
     color = 'text-success';
 
     break;
 
        case 7:
     answer = 'Dont count on it';
-    image = 'yes-image.jpg';
+    image = 'count.gif';
     color = 'text-warning';
 
     break;
